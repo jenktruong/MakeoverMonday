@@ -6,4 +6,4 @@ Office of National Statistics (ONS) in the UK
 
 ## Data Cleaning
 
--  Removed the row for Q1 1992 since there were nulls for average house price, money borrowed, and buyer income. The cleaned dataset will start at Q2 1992.
+-  Removed the row for Q1 1992 in Excel since there were nulls for average house price, money borrowed, and buyer income. The cleaned dataset (saved as a CSV) will start at Q2 1992.
