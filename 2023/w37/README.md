@@ -15,5 +15,5 @@ The [Office of National Statistics (ONS)](https://www.ons.gov.uk/economy/inflati
 -  Removed the row for Q1 1992 in Excel since there were nulls for average house price, money borrowed, and buyer income. The cleaned dataset (saved as a CSV) will start at Q2 1992.
 
 ## Data Visualization
-
+[Dashboard showing changes in UK home prices over the past 30 years.](/average_uk_house_prices_dashboard.png)
 Tableau dashboard can be found [here](https://public.tableau.com/shared/SWTT4TNS2?:display_count=n&:origin=viz_share_link).
