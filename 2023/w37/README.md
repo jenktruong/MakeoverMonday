@@ -13,3 +13,7 @@ The [Office of National Statistics (ONS)](https://www.ons.gov.uk/economy/inflati
 ## Data Cleaning
 
 -  Removed the row for Q1 1992 in Excel since there were nulls for average house price, money borrowed, and buyer income. The cleaned dataset (saved as a CSV) will start at Q2 1992.
+
+## Data Visualization
+
+Tableau dashboard can be found [here](https://public.tableau.com/shared/SWTT4TNS2?:display_count=n&:origin=viz_share_link).
