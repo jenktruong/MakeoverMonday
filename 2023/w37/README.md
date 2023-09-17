@@ -22,6 +22,6 @@ The [Office of National Statistics (ONS)](https://www.ons.gov.uk/economy/inflati
 
 ## Data Visualization
 
-![Dashboard showing changes in UK home prices from 1992 to 2023.](img/average_uk_house_prices_dashboard.png)
+![Dashboard showing changes in UK home prices from 1992 to 2023.](img/average_uk_house_prices_dashboard_rev1.png)
 
 Tableau dashboard can be found [here](https://public.tableau.com/shared/SWTT4TNS2?:display_count=n&:origin=viz_share_link).
