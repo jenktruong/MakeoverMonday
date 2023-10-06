@@ -25,6 +25,6 @@
 
 ## Data Visualization
 
-![Dashboard showing changes in UK home prices from 1992 to 2023.](img/[screenshot])
+![Dashboard caption.](img/[screenshot])
 
 Tableau dashboard can be found [here](insert tableau link).
