@@ -14,10 +14,7 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 
 1. What's the distribution of searches in scary dreams?
 2. Does seasonality make an impact in searches for scary dreams?
-
-This can be another question to explore in the future:
-
-1. Which months had the most searches for scary dreams? Which years?
+3. Which months had the most searches for scary dreams? Which years?
 
 ## Tech Stack
 
