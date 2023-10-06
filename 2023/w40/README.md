@@ -2,15 +2,19 @@
 
 ## Data Source
 
-[Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB) 
+It's October, so it's time for the SPOOOKY season. [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB) has a dashboard for tracking searches on the term "scary dreams." Why would someone look up "scary dreams" on Google? Who knows? While we can't make any assumptions, we can still explore interesting trends within Google's data. 
 
-Raw data file: "Scary Dreams.csv"
+## Data Source
+
+[Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)
+
+Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based in the US.)
 
 ## Questions to Explore
 
 1. What's the distribution of searches in scary dreams?
 2. Does seasonality make an impact in searches for scary dreams?
-3. Which months had the most scary dreams? Which years?
+3. Which months had the most searches for scary dreams? Which years?
 
 ## Tech Stack
 
