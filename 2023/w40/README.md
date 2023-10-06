@@ -21,6 +21,7 @@ Raw data file: "Scary Dreams.csv"
 
 -  Imported data into new Excel Sheet
 -  Used Power Query to convert date format to MM/DD/YYYY and rename column names
+-  Created a [calculated field](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season) on Tableau to group dates by seasons
 
 ## Key Takeaways
 
