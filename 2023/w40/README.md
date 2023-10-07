@@ -1,6 +1,7 @@
 # MakeoverMonday 2023 W40 - Scary Dreams in America
 
-![A stock photo of a person wearing a ghost costume. Photo courtesy of Karolina Grabowska from Pexels. Llink: https://www.pexels.com/photo/jack-o-lantern-ghost-5422609/](img/ghost.jpg)
+![A stock photo of a person wearing a ghost costume with a jack-o-lantern face.](img/ghost.jpg)
+Photo courtesy of Karolina Grabowska from [Pexels](https://www.pexels.com/photo/jack-o-lantern-ghost-5422609/).
 
 ## Introduction
 
@@ -50,4 +51,4 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 
 ![A screenshot of a Tableau dashboard with a line graph, box-and-whiskers plots, and important metrics on Google search interest for "scary dreams."](img/scary_dreams_dashboard.png)
 
-Tableau dashboard can be found [here](insert tableau link).
+Tableau dashboard can be found [here](https://public.tableau.com/views/SearchingforScaryDreams-MakeoverMonday/ScaryDreams?:language=en-US&:display_count=n&:origin=viz_share_link).
