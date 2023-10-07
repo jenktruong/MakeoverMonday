@@ -8,13 +8,16 @@ It's October, so it's time for the SPOOOKY season. [Google Trends](https://trend
 
 [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)
 
-Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based in the US.)
+__Google's definition of 'interest over time':__
+"Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means that there was not enough data for this term."
+
+Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based in the US, ranging from January 2009 to September 2023.)
 
 ## Questions to Explore
 
 1. What's the distribution of searches in scary dreams?
 2. Does seasonality make an impact in searches for scary dreams?
-3. Which months had the most searches for scary dreams? Which years?
+3. Which year had the most amount of scary dreams?
 
 ## Tech Stack
 
@@ -31,7 +34,9 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 
 ## Key Takeaways
 
-- Insert takeaways
+- Most months have between **55 and 80** searches (based on intial data exploration).
+- The year with the most "scary dreams" searches was 2020 with 941 searches.
+- The season with the most "scary dreams" searches was Fall 2020 with 250 searches.
 
 ## Data Visualization
 
