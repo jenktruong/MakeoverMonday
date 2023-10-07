@@ -6,7 +6,7 @@ It's October, so it's time for the SPOOOKY season. [Google Trends](https://trend
 
 ## Data Source
 
-[Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)
+Source: [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)
 
 __Google's definition of 'interest over time':__
 "Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means that there was not enough data for this term." (Assuming that this variable is measured as a percentage.)
@@ -32,10 +32,10 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
     - [group months by season](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season)
     - [use LOD expressions to find specific year and specific month with max searches](https://kb.tableau.com/articles/howto/finding-the-dimension-member-with-the-highest-measure-value)
 - Defined 'seasons' as the following:
-    - Winter: December, January, February
-    - Spring: March, April, May
-    - Summer: June, July, August
-    - Fall: September, October, November
+    - **Winter:** December, January, February
+    - **Spring:** March, April, May
+    - **Summer:** June, July, August
+    - **Fall:** September, October, November
 
 ## Key Takeaways
 
