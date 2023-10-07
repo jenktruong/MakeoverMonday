@@ -1,5 +1,7 @@
 # MakeoverMonday 2023 W40 - Scary Dreams in America
 
+![A stock photo of a person wearing a ghost costume. Photo courtesy of Karolina Grabowska from Pexels. Llink: https://www.pexels.com/photo/jack-o-lantern-ghost-5422609/](img/ghost.jpg)
+
 ## Introduction
 
 It's October, so it's time for the SPOOOKY season. [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB) has a dashboard for tracking searches on the term "scary dreams." Why would someone look up "scary dreams" on Google? Who knows? While we can't make any assumptions, we can still explore interesting trends within Google's data. 
@@ -30,7 +32,7 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 -  Used Power Query to convert date format to MM/DD/YYYY and rename column names
 -  Created several calculated fields on Tableau to do the following aggregations:
     - [group months by season](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season)
-    - [use LOD expressions to find specific year and specific month with max searches](https://kb.tableau.com/articles/howto/finding-the-dimension-member-with-the-highest-measure-value)
+    - [use LOD expressions to find specific year with max average values](https://kb.tableau.com/articles/howto/finding-the-dimension-member-with-the-highest-measure-value)
 - Defined 'seasons' as the following:
     - **Winter:** December, January, February
     - **Spring:** March, April, May
@@ -46,6 +48,6 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 
 ## Data Visualization
 
-![Dashboard caption.](img/[screenshot])
+![A screenshot of a Tableau dashboard with a line graph, box-and-whiskers plots, and important metrics on Google search interest for "scary dreams."](img/scary_dreams_dashboard.png)
 
 Tableau dashboard can be found [here](insert tableau link).
