@@ -9,7 +9,7 @@ It's October, so it's time for the SPOOOKY season. [Google Trends](https://trend
 [Google Trends](https://trends.google.com/trends/explore?date=2009-01-01%202023-09-30&geo=US&q=scary%20dreams&hl=en-GB)
 
 __Google's definition of 'interest over time':__
-"Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means that there was not enough data for this term."
+"Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means that there was not enough data for this term." (Assuming that this variable is measured as a percentage.)
 
 Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based in the US, ranging from January 2009 to September 2023.)
 
@@ -31,12 +31,18 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 -  Created several calculated fields on Tableau to do the following aggregations:
     - [group months by season](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season)
     - [use LOD expressions to find specific year and specific month with max searches](https://kb.tableau.com/articles/howto/finding-the-dimension-member-with-the-highest-measure-value)
+- Defined 'seasons' as the following:
+    - Winter: December, January, February
+    - Spring: March, April, May
+    - Summer: June, July, August
+    - Fall: September, October, November
 
 ## Key Takeaways
 
-- Most months have between **55 and 80** searches (based on intial data exploration).
-- The year with the most "scary dreams" searches was 2020 with 941 searches.
-- The season with the most "scary dreams" searches was Fall 2020 with 250 searches.
+- Most months have search interest between **55 and 80%** for "scary dreams" (based on intial data exploration).
+- The year with the highest "scary dreams" interest was **2020** with **78.4%**.
+- The season with the highest "scary dreams" interest was **Fall 2020** with **83.3%**.
+- Seasonality may not have a huge impact on search interest compared to year.
 
 ## Data Visualization
 
