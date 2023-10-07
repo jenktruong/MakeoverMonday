@@ -26,7 +26,8 @@ Raw data file: "Scary Dreams.csv" (Note that this data focuses on searches based
 -  Imported data into new Excel Sheet
 -  Used Power Query to convert date format to MM/DD/YYYY and rename column names
 -  Created several calculated fields on Tableau to do the following aggregations:
-    - [group months by season](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season) 
+    - [group months by season](https://community.tableau.com/s/question/0D54T00000C5qLeSAJ/group-months-by-season)
+    - [use LOD expressions to find specific year and specific month with max searches](https://kb.tableau.com/articles/howto/finding-the-dimension-member-with-the-highest-measure-value)
 
 ## Key Takeaways
 
